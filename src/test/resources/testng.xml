@@ -4,13 +4,18 @@
     <listeners>
         <listener class-name="listeners.TestListener" />
     </listeners>
-    <test name="Register Test" parallel="classes" thread-count="2">
+    <test name="aaa" parallel="classes" thread-count="2">
         <classes>
             <class name="testcases.register.TC01_RegisterTest" />
             <class name="testcases.login.TC02_LoginTest" />
             <class name="testcases.selectTicket.TC_BookTicketByMovieNameTest" />
             <class name="testcases.selectTicket.TC_BookTicketByPosterTest" />
             <class name="testcases.selectTicket.TC_BookTicketByCinemaNameTest" />
+        </classes>
+    </test>
+    <test name="home test" parallel="classes" thread-count="1">
+        <classes>
+            <class name="testcases.home.TC_CinemaTest" />
         </classes>
     </test>
 </suite>

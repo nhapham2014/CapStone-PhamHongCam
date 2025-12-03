@@ -180,4 +180,8 @@ public List<LocalDateTime> getAllShowtimesByMovie(String movieName) {
     public boolean isShowtimeListUnique(List<LocalDateTime> showtimes) {
         return showtimes.size() == new HashSet<>(showtimes).size();
     }
+    public boolean isShowTimeLargerThanCurrent(){
+
+        return  true;
+    }
 }
