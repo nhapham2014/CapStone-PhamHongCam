@@ -101,4 +101,8 @@ public class TC_BookTicketByPosterTest extends BaseTest {
         Assert.assertTrue(driver.getCurrentUrl().contains("https://demo1.cybersoft.edu.vn/purchase"));
 
     }
+    @Test
+    public  void test(){
+
+    }
 }
