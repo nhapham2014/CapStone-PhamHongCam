@@ -1,0 +1,1285 @@
+[2025-12-01 10:20:09] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 10:20:09] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 10:20:09] [INFO ] TC02_LoginTest - Before class executed
+[2025-12-01 10:20:16] [INFO ] TC02_LoginTest - Before Method executed
+[2025-12-01 10:20:16] [INFO ] TestListener - ===== START TEST: testValidLogin =====
+[2025-12-01 10:20:17] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 10:20:17] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 10:20:18] [INFO ] LoginPage - enterAccount: cam
+[2025-12-01 10:20:18] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam
+[2025-12-01 10:20:18] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 10:20:18] [INFO ] LoginPage - enterPassword: 123456
+[2025-12-01 10:20:18] [INFO ] LoginPage - sendKeys: By.id: matKhau with 123456
+[2025-12-01 10:20:18] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 10:20:19] [INFO ] LoginPage - clickLogin
+[2025-12-01 10:20:19] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 10:20:19] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 10:20:19] [INFO ] LoginPage - getMessage
+[2025-12-01 10:20:19] [INFO ] LoginPage - getText: By.id: swal2-title
+[2025-12-01 10:20:19] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: swal2-title
+[2025-12-01 10:20:20] [INFO ] HomePage - getText: By.xpath: //a[@href='/account']/h3
+[2025-12-01 10:20:20] [INFO ] HomePage - waitForVisibilityOfElementLocated: By.xpath: //a[@href='/account']/h3
+[2025-12-01 10:20:20] [INFO ] TestListener - ===== PASSED TEST: testValidLogin =====
+[2025-12-01 10:20:20] [INFO ] TC02_LoginTest - After Method executed
+[2025-12-01 10:20:20] [INFO ] TC02_LoginTest - After class executed
+[2025-12-01 10:20:20] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 10:20:21] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 10:47:19] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 10:47:19] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 10:47:19] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 10:47:19] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 10:50:35] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 10:50:35] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 10:50:35] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 10:50:36] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 10:51:56] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 10:51:57] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 10:51:57] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 10:51:57] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 10:52:27] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 10:52:27] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 10:52:28] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 10:52:28] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 10:59:03] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 10:59:03] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 10:59:03] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 10:59:06] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 10:59:06] [INFO ] TestListener - ===== START TEST: testselectMovie =====
+[2025-12-01 10:59:06] [INFO ] LoginPage - enterAccount: cam
+[2025-12-01 10:59:06] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam
+[2025-12-01 10:59:06] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 10:59:32] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 10:59:32] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 10:59:32] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 10:59:34] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 10:59:34] [INFO ] TestListener - ===== START TEST: testselectMovie =====
+[2025-12-01 10:59:34] [INFO ] LoginPage - enterAccount: cam
+[2025-12-01 10:59:34] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam
+[2025-12-01 10:59:34] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 11:01:06] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 11:01:07] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 11:01:07] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 11:01:08] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 11:01:08] [INFO ] TestListener - ===== START TEST: testselectMovie =====
+[2025-12-01 11:01:09] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 11:01:09] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 11:01:09] [INFO ] LoginPage - enterAccount: cam
+[2025-12-01 11:01:09] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam
+[2025-12-01 11:01:09] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 11:01:10] [INFO ] LoginPage - enterPassword: 123456
+[2025-12-01 11:01:10] [INFO ] LoginPage - sendKeys: By.id: matKhau with 123456
+[2025-12-01 11:01:10] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 11:01:10] [INFO ] LoginPage - clickLogin
+[2025-12-01 11:01:10] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 11:01:10] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 11:01:10] [ERROR] TestListener - ===== FAILED TEST: testselectMovie =====
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@name='film']"}
+  (Session info: chrome=142.0.7444.176)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [132144b719636f9a3432033d940fca61, findElement {value=//select[@name='film'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\dell\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61422}, goog:processID: 7452, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61422/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 132144b719636f9a3432033d940fca61
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at pages.HomePage.selectMovie(HomePage.java:23)
+	at testcases.selectTicket.TC_BookTicketByMovieNameTest.testselectMovie(TC_MovieTest.java:32)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2025-12-01 11:01:10] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 11:01:10] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 11:01:11] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 11:01:11] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 11:03:53] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 11:03:53] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 11:03:53] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 11:03:55] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 11:03:55] [INFO ] TestListener - ===== START TEST: testselectMovie =====
+[2025-12-01 11:03:56] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 11:03:56] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 11:03:56] [INFO ] LoginPage - enterAccount: cam
+[2025-12-01 11:03:56] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam
+[2025-12-01 11:03:56] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 11:03:56] [INFO ] LoginPage - enterPassword: 123456
+[2025-12-01 11:03:56] [INFO ] LoginPage - sendKeys: By.id: matKhau with 123456
+[2025-12-01 11:03:56] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 11:03:56] [INFO ] LoginPage - clickLogin
+[2025-12-01 11:03:56] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 11:03:56] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 11:03:57] [INFO ] HomePage - waitForVisibilityOfElementLocated: By.xpath: //select[@name='film']
+[2025-12-01 11:04:00] [ERROR] TestListener - ===== FAILED TEST: testselectMovie =====
+org.openqa.selenium.NoSuchElementException: Cannot locate option with text: AVATAR 2
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:167)
+	at pages.HomePage.selectMovie(HomePage.java:27)
+	at testcases.selectTicket.TC_BookTicketByMovieNameTest.testselectMovie(TC_MovieTest.java:32)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2025-12-01 11:04:00] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 11:04:01] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 11:04:01] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 11:04:01] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 11:05:33] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 11:05:33] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 11:05:33] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 11:05:35] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 11:05:35] [INFO ] TestListener - ===== START TEST: testselectMovie =====
+[2025-12-01 11:05:36] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 11:05:36] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 11:05:36] [INFO ] LoginPage - enterAccount: cam
+[2025-12-01 11:05:36] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam
+[2025-12-01 11:05:36] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 11:05:36] [INFO ] LoginPage - enterPassword: 123456
+[2025-12-01 11:05:36] [INFO ] LoginPage - sendKeys: By.id: matKhau with 123456
+[2025-12-01 11:05:36] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 11:05:36] [INFO ] LoginPage - clickLogin
+[2025-12-01 11:05:36] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 11:05:36] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 11:05:36] [INFO ] HomePage - waitForElementToBeClickable: By.xpath: //select[@name='film']
+[2025-12-01 11:05:40] [INFO ] HomePage - waitForVisibilityOfElementLocated: By.xpath: //select[@name='film']
+[2025-12-01 11:05:40] [ERROR] TestListener - ===== FAILED TEST: testselectMovie =====
+org.openqa.selenium.NoSuchElementException: Cannot locate option with text: AVATAR 2
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:167)
+	at pages.HomePage.selectMovie(HomePage.java:27)
+	at testcases.selectTicket.TC_BookTicketByMovieNameTest.testselectMovie(TC_MovieTest.java:34)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2025-12-01 11:05:40] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 11:05:40] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 11:05:41] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 11:05:41] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 11:09:37] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 11:09:37] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 11:09:37] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 11:09:39] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 11:09:39] [INFO ] TestListener - ===== START TEST: testselectMovie =====
+[2025-12-01 11:09:40] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 11:09:40] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 11:09:40] [INFO ] LoginPage - enterAccount: cam
+[2025-12-01 11:09:40] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam
+[2025-12-01 11:09:40] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 11:09:41] [INFO ] LoginPage - enterPassword: 123456
+[2025-12-01 11:09:41] [INFO ] LoginPage - sendKeys: By.id: matKhau with 123456
+[2025-12-01 11:09:41] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 11:09:41] [INFO ] LoginPage - clickLogin
+[2025-12-01 11:09:41] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 11:09:41] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 11:09:46] [INFO ] TestListener - ===== PASSED TEST: testselectMovie =====
+[2025-12-01 11:09:46] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 11:09:46] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 11:09:46] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 11:09:46] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 11:15:53] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 11:15:54] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 11:15:54] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 11:15:55] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 11:15:55] [INFO ] TestListener - ===== START TEST: testselectMovie =====
+[2025-12-01 11:15:56] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 11:15:56] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 11:15:56] [INFO ] LoginPage - enterAccount: cam
+[2025-12-01 11:15:56] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam
+[2025-12-01 11:15:56] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 11:15:57] [INFO ] LoginPage - enterPassword: 123456
+[2025-12-01 11:15:57] [INFO ] LoginPage - sendKeys: By.id: matKhau with 123456
+[2025-12-01 11:15:57] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 11:15:57] [INFO ] LoginPage - clickLogin
+[2025-12-01 11:15:57] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 11:15:57] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 11:15:57] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 11:16:01] [INFO ] TestListener - ===== PASSED TEST: testselectMovie =====
+[2025-12-01 11:16:01] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 11:16:01] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 11:16:01] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 11:16:02] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 11:17:50] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 11:17:51] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 11:17:51] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 11:17:53] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 11:17:53] [INFO ] TestListener - ===== START TEST: testselectMovie =====
+[2025-12-01 11:17:54] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 11:17:54] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 11:17:54] [INFO ] LoginPage - enterAccount: cam
+[2025-12-01 11:17:54] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam
+[2025-12-01 11:17:54] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 11:17:54] [INFO ] LoginPage - enterPassword: 123456
+[2025-12-01 11:17:54] [INFO ] LoginPage - sendKeys: By.id: matKhau with 123456
+[2025-12-01 11:17:54] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 11:17:54] [INFO ] LoginPage - clickLogin
+[2025-12-01 11:17:54] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 11:17:54] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 11:17:54] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 11:17:59] [INFO ] TestListener - ===== PASSED TEST: testselectMovie =====
+[2025-12-01 11:17:59] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 11:17:59] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 11:17:59] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 11:17:59] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:05:49] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:05:49] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:05:49] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:05:51] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:05:51] [INFO ] TestListener - ===== START TEST: TC01_cinemaHasOnlyDefaultOptionWhenMovieNotSelected =====
+[2025-12-01 14:05:52] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:05:52] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:05:52] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:05:52] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:05:52] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:05:52] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:05:52] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:05:52] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:05:53] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:05:53] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:05:53] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:05:53] [ERROR] TestListener - ===== FAILED TEST: TC01_cinemaHasOnlyDefaultOptionWhenMovieNotSelected =====
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//select[@name='cinema']"}
+  (Session info: chrome=142.0.7444.176)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [aeaa8f6990ff2f3084094e7e47acacd4, findElement {using=xpath, value=//select[@name='cinema']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\dell\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62905}, goog:processID: 9196, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62905/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: aeaa8f6990ff2f3084094e7e47acacd4
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at pages.HomePage.getCinemaOptionsCount(HomePage.java:49)
+	at testcases.selectTicket.TC_BookTicketByMovieNameTest.TC01_cinemaHasOnlyDefaultOptionWhenMovieNotSelected(TC_MovieTest.java:33)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2025-12-01 14:05:53] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:05:53] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:05:54] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:05:54] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:10:07] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:10:07] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:10:07] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:10:08] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:10:08] [INFO ] TestListener - ===== START TEST: testselectMovie =====
+[2025-12-01 14:10:09] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:10:09] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:10:10] [INFO ] LoginPage - enterAccount: cam
+[2025-12-01 14:10:10] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam
+[2025-12-01 14:10:10] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:10:10] [INFO ] LoginPage - enterPassword: 123456
+[2025-12-01 14:10:10] [INFO ] LoginPage - sendKeys: By.id: matKhau with 123456
+[2025-12-01 14:10:10] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:10:10] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:10:10] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:10:10] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:10:10] [INFO ] HomePage - waitForElementToBeClickable: By.xpath: //select[@name='cinema']
+[2025-12-01 14:10:14] [INFO ] TestListener - ===== PASSED TEST: testselectMovie =====
+[2025-12-01 14:10:14] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:10:14] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:10:14] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:10:15] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:10:49] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:10:50] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:10:50] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:10:51] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:10:51] [INFO ] TestListener - ===== START TEST: testselectMovie =====
+[2025-12-01 14:10:52] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:10:52] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:10:52] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:10:52] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:10:52] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:10:52] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:10:52] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:10:52] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:10:52] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:10:52] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:10:52] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:10:52] [INFO ] HomePage - waitForElementToBeClickable: By.xpath: //select[@name='cinema']
+[2025-12-01 14:10:56] [INFO ] TestListener - ===== PASSED TEST: testselectMovie =====
+[2025-12-01 14:10:56] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:10:56] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:10:56] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:10:57] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:11:02] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:11:03] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:11:03] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:11:04] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:11:04] [INFO ] TestListener - ===== START TEST: testselectMovie =====
+[2025-12-01 14:11:05] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:11:05] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:11:05] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:11:05] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:11:05] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:11:05] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:11:05] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:11:05] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:11:05] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:11:05] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:11:05] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:11:05] [INFO ] HomePage - waitForElementToBeClickable: By.xpath: //select[@name='cinema']
+[2025-12-01 14:11:09] [INFO ] TestListener - ===== PASSED TEST: testselectMovie =====
+[2025-12-01 14:11:09] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:11:09] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:11:09] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:11:10] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:11:22] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:11:23] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:11:23] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:11:24] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:11:24] [INFO ] TestListener - ===== START TEST: testselectMovie =====
+[2025-12-01 14:11:25] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:11:25] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:11:25] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:11:25] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:11:25] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:11:25] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:11:25] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:11:25] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:11:26] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:11:26] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:11:26] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:11:26] [INFO ] HomePage - waitForElementToBeClickable: By.xpath: //select[@name='cinema']
+[2025-12-01 14:11:29] [ERROR] TestListener - ===== FAILED TEST: testselectMovie =====
+java.lang.AssertionError: Dropdown Rạp phải chỉ có 1 option mặc định khi chưa chọn Phim expected [2] but found [1]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:1431)
+	at org.testng.Assert.assertEquals(Assert.java:1395)
+	at testcases.selectTicket.TC_BookTicketByMovieNameTest.testselectMovie(TC_MovieTest.java:34)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2025-12-01 14:11:29] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:11:30] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:11:30] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:11:31] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:16:06] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:16:06] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:16:06] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:16:08] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:16:08] [INFO ] TestListener - ===== START TEST: TC02_changeMovie_cinemaAndShowtimeMustReset =====
+[2025-12-01 14:16:09] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:16:09] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:16:09] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:16:09] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:16:09] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:16:09] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:16:09] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:16:09] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:16:09] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:16:09] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:16:09] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:16:10] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 14:16:14] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='cinema']/option[normalize-space(text())='CGV - Golden Plaza']
+[2025-12-01 14:16:15] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='date']/option[normalize-space(text())='15/10/2021 ~ 08:42']
+[2025-12-01 14:16:15] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='Thor 6']
+[2025-12-01 14:16:15] [INFO ] TestListener - ===== PASSED TEST: TC02_changeMovie_cinemaAndShowtimeMustReset =====
+[2025-12-01 14:16:15] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:16:15] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:16:15] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:16:15] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:17:02] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:17:02] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:17:02] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:17:03] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:17:03] [INFO ] TestListener - ===== START TEST: TC02_changeMovie_cinemaAndShowtimeMustReset =====
+[2025-12-01 14:17:04] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:17:04] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:17:04] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:17:04] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:17:04] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:17:04] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:17:04] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:17:04] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:17:05] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:17:05] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:17:05] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:17:05] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 14:17:09] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='cinema']/option[normalize-space(text())='CGV - Golden Plaza']
+[2025-12-01 14:17:10] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='date']/option[normalize-space(text())='15/10/2021 ~ 08:42']
+[2025-12-01 14:17:10] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='Thor 6']
+[2025-12-01 14:17:10] [INFO ] TestListener - ===== PASSED TEST: TC02_changeMovie_cinemaAndShowtimeMustReset =====
+[2025-12-01 14:17:10] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:17:10] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:17:10] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:17:10] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:18:14] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:18:14] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:18:14] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:18:16] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:18:16] [INFO ] TestListener - ===== START TEST: TC02_changeMovie_cinemaAndShowtimeMustReset =====
+[2025-12-01 14:18:16] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:18:16] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:18:17] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:18:17] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:18:17] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:18:17] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:18:17] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:18:17] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:18:17] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:18:17] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:18:17] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:18:17] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 14:18:22] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='cinema']/option[normalize-space(text())='CGV - Golden Plaza']
+[2025-12-01 14:18:22] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='date']/option[normalize-space(text())='15/10/2021 ~ 08:42']
+[2025-12-01 14:18:22] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='Thor 6']
+[2025-12-01 14:18:22] [INFO ] TestListener - ===== PASSED TEST: TC02_changeMovie_cinemaAndShowtimeMustReset =====
+[2025-12-01 14:18:22] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:18:22] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:18:23] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:18:23] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:18:51] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:18:51] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:18:51] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:18:53] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:18:53] [INFO ] TestListener - ===== START TEST: TC02_changeMovie_cinemaAndShowtimeMustReset =====
+[2025-12-01 14:18:54] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:18:54] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:18:54] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:18:54] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:18:54] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:18:54] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:18:54] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:18:54] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:18:54] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:18:54] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:18:54] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:18:54] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 14:18:59] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='cinema']/option[normalize-space(text())='CGV - Golden Plaza']
+[2025-12-01 14:18:59] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='date']/option[normalize-space(text())='15/10/2021 ~ 08:42']
+[2025-12-01 14:18:59] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='Thor 6']
+[2025-12-01 14:18:59] [INFO ] TestListener - ===== PASSED TEST: TC02_changeMovie_cinemaAndShowtimeMustReset =====
+[2025-12-01 14:18:59] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:18:59] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:19:00] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:19:00] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:21:11] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:21:11] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:21:11] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:21:13] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:21:13] [INFO ] TestListener - ===== START TEST: TC03_selectMovie_thenCinemaLoaded =====
+[2025-12-01 14:21:14] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:21:14] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:21:14] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:21:14] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:21:14] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:21:14] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:21:14] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:21:14] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:21:14] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:21:14] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:21:14] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:21:14] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 14:21:19] [INFO ] HomePage - waitForElementToBeClickable: By.xpath: //select[@name='cinema']
+[2025-12-01 14:21:19] [ERROR] TestListener - ===== FAILED TEST: TC03_selectMovie_thenCinemaLoaded =====
+java.lang.AssertionError: Sau khi chọn phim, dropdown Rạp phải load danh sách rạp expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at testcases.selectTicket.TC_BookTicketByMovieNameTest.TC03_selectMovie_thenCinemaLoaded(TC_MovieTest.java:67)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2025-12-01 14:21:19] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:21:19] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:21:19] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:21:20] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:21:36] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:21:36] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:21:36] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:21:37] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:21:38] [INFO ] TestListener - ===== START TEST: TC03_selectMovie_thenCinemaLoaded =====
+[2025-12-01 14:21:38] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:21:38] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:21:38] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:21:38] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:21:38] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:21:39] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:21:39] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:21:39] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:21:39] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:21:39] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:21:39] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:21:39] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 14:21:43] [INFO ] HomePage - waitForElementToBeClickable: By.xpath: //select[@name='cinema']
+[2025-12-01 14:21:43] [ERROR] TestListener - ===== FAILED TEST: TC03_selectMovie_thenCinemaLoaded =====
+java.lang.AssertionError: Sau khi chọn phim, dropdown Rạp phải load danh sách rạp expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at testcases.selectTicket.TC_BookTicketByMovieNameTest.TC03_selectMovie_thenCinemaLoaded(TC_MovieTest.java:67)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2025-12-01 14:21:43] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:21:44] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:21:44] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:21:44] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:24:39] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:24:39] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:24:39] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:24:40] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:24:40] [INFO ] TestListener - ===== START TEST: TC03_selectMovie_thenCinemaLoaded =====
+[2025-12-01 14:24:41] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:24:41] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:24:42] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:24:42] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:24:42] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:24:42] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:24:42] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:24:42] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:24:42] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:24:42] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:24:42] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:24:42] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 14:24:46] [INFO ] HomePage - waitForElementToBeClickable: By.xpath: //select[@name='cinema']
+[2025-12-01 14:24:46] [ERROR] TestListener - ===== FAILED TEST: TC03_selectMovie_thenCinemaLoaded =====
+java.lang.AssertionError: Sau khi chọn phim, dropdown Rạp phải load danh sách rạp expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at testcases.selectTicket.TC_BookTicketByMovieNameTest.TC03_selectMovie_thenCinemaLoaded(TC_MovieTest.java:67)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2025-12-01 14:24:46] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:24:47] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:24:47] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:24:47] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:26:24] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:26:24] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:26:24] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:26:25] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:26:25] [INFO ] TestListener - ===== START TEST: TC01_cinemaHasOnlyDefaultOptionWhenMovieNotSelected =====
+[2025-12-01 14:26:26] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:26:26] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:26:26] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:26:26] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:26:26] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:26:27] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:26:27] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:26:27] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:26:27] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:26:27] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:26:27] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:26:27] [INFO ] HomePage - waitForVisibilityOfElementLocated: By.xpath: //select[@name='cinema']
+[2025-12-01 14:26:31] [INFO ] TestListener - ===== PASSED TEST: TC01_cinemaHasOnlyDefaultOptionWhenMovieNotSelected =====
+[2025-12-01 14:26:31] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:26:31] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:26:31] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:26:31] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:38:11] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:38:12] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:38:12] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:38:13] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:38:13] [INFO ] TestListener - ===== START TEST: TC03_selectMovie_thenCinemaLoaded =====
+[2025-12-01 14:38:14] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:38:14] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:38:14] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:38:14] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:38:14] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:38:15] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:38:15] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:38:15] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:38:15] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:38:15] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:38:15] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:38:15] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 14:38:19] [INFO ] HomePage - waitForVisibilityOfElementLocated: By.xpath: //select[@name='cinema']
+[2025-12-01 14:38:20] [ERROR] TestListener - ===== FAILED TEST: TC03_selectMovie_thenCinemaLoaded =====
+java.lang.AssertionError: Sau khi chọn phim, dropdown Rạp phải load danh sách rạp expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at testcases.selectTicket.TC_BookTicketByMovieNameTest.TC03_selectMovie_thenCinemaLoaded(TC_MovieTest.java:67)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2025-12-01 14:38:20] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:38:20] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:38:20] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:38:21] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:46:52] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:46:52] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:46:52] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:46:54] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:46:54] [INFO ] TestListener - ===== START TEST: TC01_cinemaAndDateHaveOnlyDefaultOptionWhenMovieNotSelected =====
+[2025-12-01 14:46:56] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:46:56] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:46:56] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:46:56] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:46:56] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:46:56] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:46:56] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:46:56] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:46:56] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:46:56] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:46:56] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:46:57] [ERROR] TestListener - ===== FAILED TEST: TC01_cinemaAndDateHaveOnlyDefaultOptionWhenMovieNotSelected =====
+java.lang.AssertionError: Dropdown Rạp phải chỉ có 1 option mặc định khi chưa chọn Phim expected [1] but found [0]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:1431)
+	at org.testng.Assert.assertEquals(Assert.java:1395)
+	at testcases.selectTicket.TC_BookTicketByMovieNameTest.TC01_cinemaAndDateHaveOnlyDefaultOptionWhenMovieNotSelected(TC_MovieTest.java:36)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2025-12-01 14:46:57] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:46:57] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:46:57] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:46:58] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:47:06] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:47:06] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:47:06] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:47:08] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:47:08] [INFO ] TestListener - ===== START TEST: TC03_selectMovie_thenCinemaLoaded =====
+[2025-12-01 14:47:12] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:47:12] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:47:43] [ERROR] TestListener - ===== FAILED TEST: TC03_selectMovie_thenCinemaLoaded =====
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: //h3[text()='Đăng Nhập'] (tried for 30 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at base.BasePage.waitForElementToBeClickable(BasePage.java:35)
+	at base.BasePage.click(BasePage.java:46)
+	at components.TopBarNavigation.navigateLoginPage(TopBarNavigation.java:17)
+	at pages.CommonPage.navigateLoginPage(CommonPage.java:18)
+	at testcases.selectTicket.TC_BookTicketByMovieNameTest.loginBeforeTest(TC_MovieTest.java:27)
+	at testcases.selectTicket.TC_BookTicketByMovieNameTest.TC03_selectMovie_thenCinemaLoaded(TC_MovieTest.java:62)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4753b158142263ece6a1d09c5ef88057, findElement {using=xpath, value=//h3[text()='Đăng Nhập']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\dell\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64807}, goog:processID: 8112, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64807/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4753b158142263ece6a1d09c5ef88057
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:194)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:190)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:627)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:624)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+	... 22 more
+[2025-12-01 14:47:43] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:47:43] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:47:43] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:48:23] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:48:23] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:48:23] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:48:24] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:48:24] [INFO ] TestListener - ===== START TEST: TC03_selectMovie_thenCinemaLoaded =====
+[2025-12-01 14:48:25] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:48:25] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:48:25] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:48:25] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:48:25] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:48:26] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:48:26] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:48:26] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:48:26] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:48:26] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:48:26] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:48:26] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 14:48:31] [INFO ] TestListener - ===== PASSED TEST: TC03_selectMovie_thenCinemaLoaded =====
+[2025-12-01 14:48:31] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:48:31] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:48:31] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:48:32] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:48:44] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:48:44] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:48:44] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:48:46] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:48:46] [INFO ] TestListener - ===== START TEST: TC03_selectMovie_thenCinemaLoaded =====
+[2025-12-01 14:48:47] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:48:47] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:48:47] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:48:47] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:48:47] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:48:47] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:48:47] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:48:47] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:48:47] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:48:47] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:48:47] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:48:47] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 14:48:52] [ERROR] TestListener - ===== FAILED TEST: TC03_selectMovie_thenCinemaLoaded =====
+java.lang.AssertionError: Sau khi chọn phim, dropdown Rạp phải load danh sách rạp expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at testcases.selectTicket.TC_BookTicketByMovieNameTest.TC03_selectMovie_thenCinemaLoaded(TC_MovieTest.java:69)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2025-12-01 14:48:52] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:48:53] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:48:53] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:48:54] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:58:16] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:58:16] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:58:17] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:58:18] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:58:18] [INFO ] TestListener - ===== START TEST: TC03_selectMovie_thenCinemaLoaded =====
+[2025-12-01 14:58:20] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:58:20] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:58:20] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:58:20] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:58:20] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:58:20] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:58:20] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:58:20] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:58:20] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:58:20] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:58:20] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:58:20] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 14:58:25] [INFO ] TestListener - ===== PASSED TEST: TC03_selectMovie_thenCinemaLoaded =====
+[2025-12-01 14:58:25] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:58:25] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:58:25] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:58:25] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 14:58:37] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 14:58:37] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 14:58:37] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 14:58:38] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 14:58:38] [INFO ] TestListener - ===== START TEST: TC01_cinemaAndDateHaveOnlyDefaultOptionWhenMovieNotSelected =====
+[2025-12-01 14:58:40] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:58:40] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 14:58:40] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 14:58:40] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 14:58:40] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 14:58:41] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 14:58:41] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 14:58:41] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 14:58:41] [INFO ] LoginPage - clickLogin
+[2025-12-01 14:58:41] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:58:41] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 14:58:41] [ERROR] TestListener - ===== FAILED TEST: TC01_cinemaAndDateHaveOnlyDefaultOptionWhenMovieNotSelected =====
+java.lang.AssertionError: Dropdown Rạp phải chỉ có 1 option mặc định khi chưa chọn Phim expected [1] but found [0]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:1431)
+	at org.testng.Assert.assertEquals(Assert.java:1395)
+	at testcases.selectTicket.TC_BookTicketByMovieNameTest.TC01_cinemaAndDateHaveOnlyDefaultOptionWhenMovieNotSelected(TC_MovieTest.java:36)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2025-12-01 14:58:41] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 14:58:42] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 14:58:42] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 14:58:42] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 15:00:49] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 15:00:49] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 15:00:49] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 15:00:51] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 15:00:51] [INFO ] TestListener - ===== START TEST: TC01_cinemaAndDateHaveOnlyDefaultOptionWhenMovieNotSelected =====
+[2025-12-01 15:00:52] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 15:00:52] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 15:00:53] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 15:00:53] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 15:00:53] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 15:00:53] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 15:00:53] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 15:00:53] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 15:00:53] [INFO ] LoginPage - clickLogin
+[2025-12-01 15:00:53] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 15:00:53] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 15:00:58] [INFO ] TestListener - ===== PASSED TEST: TC01_cinemaAndDateHaveOnlyDefaultOptionWhenMovieNotSelected =====
+[2025-12-01 15:00:58] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 15:00:58] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 15:00:58] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 15:00:58] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 15:02:07] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 15:02:07] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 15:02:07] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 15:02:09] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 15:02:09] [INFO ] TestListener - ===== START TEST: TC01_cinemaAndDateHaveOnlyDefaultOptionWhenMovieNotSelected =====
+[2025-12-01 15:02:15] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 15:02:15] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 15:02:15] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 15:02:15] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 15:02:15] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 15:02:16] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 15:02:16] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 15:02:16] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 15:02:16] [INFO ] LoginPage - clickLogin
+[2025-12-01 15:02:16] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 15:02:16] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 15:02:20] [INFO ] TestListener - ===== PASSED TEST: TC01_cinemaAndDateHaveOnlyDefaultOptionWhenMovieNotSelected =====
+[2025-12-01 15:02:20] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 15:02:20] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 15:02:20] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 15:02:20] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 15:02:28] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 15:02:29] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 15:02:29] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 15:02:30] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 15:02:30] [INFO ] TestListener - ===== START TEST: TC03_selectMovie_thenCinemaLoaded =====
+[2025-12-01 15:02:32] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 15:02:32] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 15:02:32] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 15:02:32] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 15:02:32] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 15:02:32] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 15:02:32] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 15:02:32] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 15:02:32] [INFO ] LoginPage - clickLogin
+[2025-12-01 15:02:32] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 15:02:32] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 15:02:32] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 15:02:37] [INFO ] TestListener - ===== PASSED TEST: TC03_selectMovie_thenCinemaLoaded =====
+[2025-12-01 15:02:37] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 15:02:37] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 15:02:37] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 15:02:38] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 15:07:29] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 15:07:29] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 15:07:29] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 15:07:32] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 15:07:33] [INFO ] TestListener - ===== START TEST: TC04_selectCinema_thenShowtimeLoaded =====
+[2025-12-01 15:07:34] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 15:07:34] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 15:07:34] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 15:07:34] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 15:07:34] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 15:07:34] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 15:07:34] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 15:07:34] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 15:07:34] [INFO ] LoginPage - clickLogin
+[2025-12-01 15:07:34] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 15:07:34] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 15:07:34] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 15:07:39] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='cinema']/option[normalize-space(text())='CGV - Golden Plaza']
+[2025-12-01 15:07:39] [INFO ] TestListener - ===== PASSED TEST: TC04_selectCinema_thenShowtimeLoaded =====
+[2025-12-01 15:07:39] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 15:07:39] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 15:07:39] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 15:07:40] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 15:11:01] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 15:11:02] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 15:11:02] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 15:11:04] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 15:11:04] [INFO ] TestListener - ===== START TEST: TC03_changeCinema_showtimeMustReset =====
+[2025-12-01 15:11:20] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 15:11:20] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 15:11:20] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 15:11:20] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 15:11:20] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 15:11:20] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 15:11:20] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 15:11:20] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 15:11:21] [INFO ] LoginPage - clickLogin
+[2025-12-01 15:11:21] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 15:11:21] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 15:11:21] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 15:11:26] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='cinema']/option[normalize-space(text())='CGV - Golden Plaza']
+[2025-12-01 15:11:26] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='date']/option[normalize-space(text())='15/10/2021 ~ 08:42']
+[2025-12-01 15:11:26] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='cinema']/option[normalize-space(text())='MegaGS - Cao Thắng']
+[2025-12-01 15:11:27] [INFO ] TestListener - ===== PASSED TEST: TC03_changeCinema_showtimeMustReset =====
+[2025-12-01 15:11:27] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 15:11:27] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 15:11:27] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 15:11:27] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 15:14:40] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 15:14:40] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 15:14:40] [INFO ] TC_MovieTest - Before class executed
+[2025-12-01 15:14:41] [INFO ] TC_MovieTest - Before Method executed
+[2025-12-01 15:14:41] [INFO ] TestListener - ===== START TEST: TC05_fullFlowClickBuyTicket =====
+[2025-12-01 15:14:43] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 15:14:43] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 15:14:43] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 15:14:43] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 15:14:43] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 15:14:43] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 15:14:43] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 15:14:43] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 15:14:43] [INFO ] LoginPage - clickLogin
+[2025-12-01 15:14:43] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 15:14:43] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 15:14:43] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='film']/option[normalize-space(text())='AVATAR 2']
+[2025-12-01 15:14:48] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='cinema']/option[normalize-space(text())='CGV - Golden Plaza']
+[2025-12-01 15:14:49] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //select[@name='date']/option[normalize-space(text())='15/10/2021 ~ 08:42']
+[2025-12-01 15:14:49] [INFO ] HomePage - click: By.xpath: //button[.//span[text()='MUA VÉ NGAY']]
+[2025-12-01 15:14:49] [INFO ] HomePage - waitForElementToBeClickable: By.xpath: //button[.//span[text()='MUA VÉ NGAY']]
+[2025-12-01 15:14:49] [INFO ] TestListener - ===== PASSED TEST: TC05_fullFlowClickBuyTicket =====
+[2025-12-01 15:14:49] [INFO ] TC_MovieTest - After Method executed
+[2025-12-01 15:14:49] [INFO ] TC_MovieTest - After class executed
+[2025-12-01 15:14:49] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 15:14:49] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 15:47:00] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 15:47:01] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 15:47:01] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 15:47:01] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 15:47:28] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 15:47:28] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 15:47:28] [INFO ] TC_MovieByPoster - Before class executed
+[2025-12-01 15:47:31] [INFO ] TC_MovieByPoster - Before Method executed
+[2025-12-01 15:47:31] [INFO ] TestListener - ===== START TEST: TC01 =====
+[2025-12-01 15:47:31] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 15:47:31] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 15:47:32] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 15:47:32] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 15:47:32] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 15:47:33] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 15:47:33] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 15:47:33] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 15:47:33] [INFO ] LoginPage - clickLogin
+[2025-12-01 15:47:33] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 15:47:33] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 15:47:33] [INFO ] HomePage - waitForPresentOfElementLocatedBy.xpath: //div[contains(@style, 'avatar-2_gp09.jpg')]
+[2025-12-01 15:47:37] [INFO ] HomePage - click: By.xpath: //div[contains(@style, 'avatar-2_gp09.jpg')]
+[2025-12-01 15:47:37] [INFO ] HomePage - waitForElementToBeClickable: By.xpath: //div[contains(@style, 'avatar-2_gp09.jpg')]
+[2025-12-01 15:47:37] [INFO ] TestListener - ===== PASSED TEST: TC01 =====
+[2025-12-01 15:47:37] [INFO ] TC_MovieByPoster - After Method executed
+[2025-12-01 15:47:37] [INFO ] TC_MovieByPoster - After class executed
+[2025-12-01 15:47:37] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 15:47:38] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 17:06:35] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 17:06:35] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 17:06:35] [INFO ] TC_MovieByPoster - Before class executed
+[2025-12-01 17:06:44] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 17:06:44] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 17:06:44] [INFO ] TC_MovieByPoster - Before class executed
+[2025-12-01 17:06:46] [INFO ] TC_MovieByPoster - Before Method executed
+[2025-12-01 17:06:46] [INFO ] TestListener - ===== START TEST: TC01_ =====
+[2025-12-01 17:06:47] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 17:06:47] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 17:06:47] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 17:06:47] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 17:06:47] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 17:06:48] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 17:06:48] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 17:06:48] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 17:06:48] [INFO ] LoginPage - clickLogin
+[2025-12-01 17:06:48] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 17:06:48] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 17:06:48] [ERROR] TestListener - ===== FAILED TEST: TC01_ =====
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@style,'avatar-2_gp09.jpg')]/following-sibling::div//div[span]/text()[normalize-space()]"}
+  (Session info: chrome=142.0.7444.176)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [af59ba89b7196f70bd1c1f59205e0226, findElement {value=//div[contains(@style,'avatar-2_gp09.jpg')]/following-sibling::div//div[span]/text()[normalize-space()], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\dell\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52961}, goog:processID: 12028, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52961/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: af59ba89b7196f70bd1c1f59205e0226
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at pages.HomePage.getMovieTitle(HomePage.java:98)
+	at testcases.selectTicket.TC_BookTicketByPosterTest.TC01_(TC_MovieByPoster.java:32)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2025-12-01 17:06:48] [INFO ] TC_MovieByPoster - After Method executed
+[2025-12-01 17:06:49] [INFO ] TC_MovieByPoster - After class executed
+[2025-12-01 17:06:49] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 17:06:49] [INFO ] TC01_RegisterTest - Test Suite completed
+[2025-12-01 17:09:00] [INFO ] TC01_RegisterTest - Before Suite executed
+[2025-12-01 17:09:00] [INFO ] TestListener - >>> START TEST SUITE: Register Test
+[2025-12-01 17:09:00] [INFO ] TC_MovieByPoster - Before class executed
+[2025-12-01 17:09:02] [INFO ] TC_MovieByPoster - Before Method executed
+[2025-12-01 17:09:02] [INFO ] TestListener - ===== START TEST: TC01_ =====
+[2025-12-01 17:09:03] [INFO ] TopBarNavigation - click: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 17:09:03] [INFO ] TopBarNavigation - waitForElementToBeClickable: By.xpath: //h3[text()='Đăng Nhập']
+[2025-12-01 17:09:03] [INFO ] LoginPage - enterAccount: cam0592
+[2025-12-01 17:09:03] [INFO ] LoginPage - sendKeys: By.id: taiKhoan with cam0592
+[2025-12-01 17:09:03] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: taiKhoan
+[2025-12-01 17:09:03] [INFO ] LoginPage - enterPassword: Diqit0505@
+[2025-12-01 17:09:03] [INFO ] LoginPage - sendKeys: By.id: matKhau with Diqit0505@
+[2025-12-01 17:09:03] [INFO ] LoginPage - waitForVisibilityOfElementLocated: By.id: matKhau
+[2025-12-01 17:09:03] [INFO ] LoginPage - clickLogin
+[2025-12-01 17:09:03] [INFO ] LoginPage - click: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 17:09:03] [INFO ] LoginPage - waitForElementToBeClickable: By.xpath: //button[.='Đăng nhập']
+[2025-12-01 17:09:03] [ERROR] TestListener - ===== FAILED TEST: TC01_ =====
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@style,'avatar-2_gp09')]/following-sibling::div//div[span]/text()[normalize-space()]"}
+  (Session info: chrome=142.0.7444.176)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4b53b7e480c7b5170b5fdeabdfe5ed56, findElement {using=xpath, value=//div[contains(@style,'avatar-2_gp09')]/following-sibling::div//div[span]/text()[normalize-space()]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\dell\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53104}, goog:processID: 10716, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53104/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4b53b7e480c7b5170b5fdeabdfe5ed56
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at pages.HomePage.getMovieTitle(HomePage.java:98)
+	at testcases.selectTicket.TC_BookTicketByPosterTest.TC01_(TC_MovieByPoster.java:32)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2025-12-01 17:09:03] [INFO ] TC_MovieByPoster - After Method executed
+[2025-12-01 17:09:04] [INFO ] TC_MovieByPoster - After class executed
+[2025-12-01 17:09:04] [INFO ] TestListener - >>> FINISH TEST SUITE: Register Test
+[2025-12-01 17:09:05] [INFO ] TC01_RegisterTest - Test Suite completed

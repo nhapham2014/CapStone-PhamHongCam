@@ -1,0 +1,34 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.automation'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation("org.seleniumhq.selenium:selenium-java:4.35.0")
+    implementation("org.testng:testng:7.11.0")
+    implementation("org.apache.logging.log4j:log4j-core:2.25.1")
+    implementation("org.apache.logging.log4j:log4j-api:2.25.1")
+    implementation("com.aventstack:extentreports:5.1.2")
+    implementation("commons-io:commons-io:2.20.0")
+
+}
+
+test {
+    useTestNG() {
+        useDefaultListeners = true //dùng để tạo report testNG
+        outputDirectory = file("$projectDir/test-output") // folder chứa testNG report
+
+        suites "src/test/resources/testng.xml"
+    }
+
+    testLogging {
+        events "passed", "skipped", "failed"
+        showStandardStreams = true
+    }
+}

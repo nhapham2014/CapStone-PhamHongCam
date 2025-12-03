@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="listeners.TestListener" />
+    </listeners>
+    <test name="Register Test" parallel="classes" thread-count="2">
+        <classes>
+            <class name="testcases.register.TC01_RegisterTest" />
+            <class name="testcases.login.TC02_LoginTest" />
+            <class name="testcases.selectTicket.TC_BookTicketByMovieNameTest" />
+            <class name="testcases.selectTicket.TC_BookTicketByPosterTest" />
+            <class name="testcases.selectTicket.TC_BookTicketByCinemaNameTest" />
+        </classes>
+    </test>
+</suite>
